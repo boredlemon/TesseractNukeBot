@@ -1,0 +1,25 @@
+{
+"advancedOptions": {
+    "channels": {
+        "channelNames": "TesseractDestroyers🤡🤓🖕😂",
+        "amount": 25
+    },
+
+    "webhook": {
+        "name": "TessyBoi900Bomber123haha",
+        "avatar": "https://cdn.ratface.lol/r/nuke.png",
+        "message": "@everyone JOIN https://discord.gg/ThEpXgW4kd NOW OR GET FUCKED BY TESSERACT DESTROYERS AHHAHAHAHAHHAHAHAHHA"
+    },
+
+    "banning": {
+        "enabled": false,
+        "banReason": ""
+    },
+
+    "server": {
+        "nameChange": "T̶̝̭͈͕̜̺̭̻̩̲͇̮̎̈͋́͗̄́̔̈̔͑̂͜͝͝e̴̦̘̥͔̅̈́̄̑̈́͒̄̈́̃̀̎̏́̃s̶̪̔̋̉̊̅̾̂̍͝͝s̵͙̠̝̼̞͔͙͎͛̍̂͐́̂͋̃͋̒̑͒e̴̡̢̙͎̘͙͕͔̼̜͔̣̩̘͠ͅr̷̡̢̟͉̟͕̰͖̩̘̋̆̃̎͂̌̈́̚͝ͅa̶̡̢̪̳̜̥̼̝͍̅̃͆̏͜ͅç̴͔̘̹̪̗̫̗̦̻̙̼͇̟͈̀̒ť̷̡̨̲̙̮̪͉̼̯̦̞̮̰̽̆̓̃̚͜͝D̵̨̺̳̹̯̰̰̪̘̭̝̱͔̈́̀̇̔͗̾ȩ̶̗̱͙̪̠̇̌͂̂s̸̡̖̙̖͖̗̪̹͎͂̈́͐̅͒́͜͜ţ̶̲̟̝͚͇̮̟̜͍̗͕̰̝́̍̔̈́͛̌̉͊̄̌̕͝͝r̵͕̲̠̠̩̳͇̱̈́ò̵̧̧̰͕͇̈́̈́͌̏̈́́ÿ̵̧̨͕̩͚͇́̿̅͌͂̄͐̄̈́̓̇̏̏͑͝e̵̮̰͙͖̰̞̫̔̈́̂̀̈̂͠͠r̵̛͇͈̆͋́̿̋͒̂̓̅̀̌͘͘͜͝s̸̡̙̤̺̫̮͔̖̰͚̭̗̙̋͌̒̑͐͒͐͜͝�̶̨̨̩̳̘̼̫͙̙̰̬̲͈͗̐̑̇̄̇̌͊̔͠͝ͅ�̸̨̨̝̙̟̆̊͆̍̓̿͗̃̈́͐͘ͅ�̵̹̏̒͐̏̒͗̉̀͋͘�̵̻̭̘͓̯̯̲́ͅ�̷̨̆̓͂͆�̸̧̨̨̬̬̱͚̩̪̝̩͒̾̾̿͗͘͘�̶̢͓̭̮̟̠̝̳͓̺̠̬͐̿�̴̧̹̻͕͔͔̣̝͕̑́̂̈́̽͒͋͠͝͝",
+        "iconChange": "https://cdn.ratface.lol/r/nuke.png",
+        "bannerChange": "https://cdn.ratface.lol/r/nukeBanner.png"
+    }
+}
+}
